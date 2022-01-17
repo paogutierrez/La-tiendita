@@ -1,0 +1,151 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "imagen":"../images/Name=Limon.jpg",
+            "name":"Limon con semilla",
+            "price":"$26.82/Kg $39.9/Kg",
+            "peso":"1000gr",
+            "descuento":"32%dto.",
+            "detalle":"Aparte de la vitamina C, el limón contiene vitaminas del grupo B y vitamina E y muchos minerales: potasio, magnesio, calcio y fósforo, cobre, cinc, hierro y manganeso .Aunque los limones son ricos en ácido cítrico, ayudan a alcalinizar el organismo, ayudando a restablecer el ph del cuerpo."
+            
+        },
+        {
+            "id": 2,
+            "imagen":"../images/Name=Tomate.jpg",
+            "name":"Tomate",
+            "price":"$21.79/Kg $32.9/Kg",
+            "peso":"1000gr",
+            "descuento":"32%dto.",
+            "detalle":"Deliciosa variedad de tomate, perfecto para uso de salsas, sopas y condimentos ya que al ser más jugoso, dulce y menos ácido permite concentrar los sabores de la cocina."
+        },
+        {
+            "id": 3,
+            "imagen":"../images/Name=Aguacate.jpg",
+            "name":"Aguacate Hass",
+            "price":"$56.8/Kg  $69.9/Kg",
+            "peso":"1000gr",
+            "descuento":"18%dto.",
+            "detalle":"El aguacate Hass es un fruto exótico carnoso que se obtiene del árbol tropical del aguacate. Conocido en algunas partes de América del Sur como palta, es una fruta muy rica en minerales, principalmente potasio, hierro y fósforo. "
+        },
+        {
+            "id": 4,
+            "imagen":"../images/Name=Nopal.jpg",
+            "name":"Nopal Limpio",
+            "price":"$25.8/Kg $29.9/Kg",
+            "peso":"1000gr",
+            "descuento":"13%dto.",
+            "detalle":"Contiene vitaminas A, complejo B, C, minerales como calcio, magnesio, sodio, potasio, hierro y fibras en lignina, celulosa, hemicelulosa, pectina, y mucílagos que, en conjunto con los 17 aminoácidos, ayudan a eliminar toxinas provocadas por el alcohol y el humo del cigarro."
+        },
+        {
+            "id": 5,
+            "imagen":"../images/Name=Tomate verde.jpg",
+            "name":"Tomate verde sin cascara",
+            "price":"$22.89/Kg $24.9/Kg",
+            "peso":"1000gr",
+            "descuento":"8%dto.",
+            "detalle":"El tomate es un alimento sano que aporta multitud de vitaminas, necesarias para el organismo. Además contiene altos niveles de potasio y de zinc. Sin embargo, una de sus cualidades más importantes es su poder antioxidante, ya que posee licopeno. Puede consumirse crudo y puede servirse cocido, estofado, frito, encurtido, como salsa o combinado con otros alimentos."
+        },
+        {
+            "id": 6,
+            "imagen":"../images/Name=Cocacola sin azucar.jpg",
+            "name":"Coca-Cola sin azucar",
+            "price":"$26",
+            "cantidad":"250ml",
+            "descuento":"7%dto",
+            "detalle":"La de siempre, original y deliciosa, la que refresca a millones de personas en todo el mundo."
+        },
+        {
+            "id": 7,
+            "imagen":"../images/Name=Cocacola.jpg",
+            "name":"Coca-Cola",
+            "price":"$12 $14",
+            "cantidad":"250ml",
+            "descuento":"7%dto",
+            "detalle":"La de siempre, original y deliciosa, la que refresca a millones de personas en todo el mundo."
+        },
+        {
+            "id": 8,
+            "imagen":"../images/Name=Naranja.jpg",
+            "name":"Naranja",
+            "price":"$26.82/Kg",
+            "peso":"1000gr",
+            "descuento":"32%dto.",
+            "detalle":"Las naranjas frescas son bajas en calorías y fuente de fibra, potasio, vitamina C y folato. La parte comestible de la naranja es la pulpa y se consume fresca o en zumo. La naranja también se utiliza para realizar compotas, mermeladas y para consumo como fruta deshidratada."
+        },
+        {
+            "id": 9,
+            "imagen":"../images/Name=Jitomate Bola.jpg",
+            "name":"Jitomate",
+            "price":"$26.82/Kg",
+            "peso":"1000gr",
+            "descuento":"32%dto.",
+            "detalle":"El jitomate es importante para la cocina, una infinidad de recetas lo necesitan pero ¿conoces los usos del jitomate en la cocina?"
+        },
+        {
+            "id": 10,
+            "imagen":"../images/Name=Manzana Golden.jpg",
+            "name":"Manzana",
+            "price":"$26.82/Kg $39.9/Kg",
+            "peso":"1000gr",
+            "descuento":"32%dto.",
+            "detalle":"Las manzanas son beneficiosas para la salud al ser ricas en sustancias fitoquímicas y antioxidantes, ayudan a reducir los niveles de azúcar en sangre."
+        },
+        {
+            "id": 11,
+            "imagen":"../images/Name=Pechuga de pavo.jpg",
+            "name":"Pechuga de Pavo",
+            "price":"$26.82/Kg $39.9/Kg",
+            "peso":"500gr",
+            "descuento":"32%dto.",
+            "detalle":"Productos 100 carne sin moliendas, gluten, ni almidones.Lo puedes disfrutar en cualquier ocasión."
+        },
+        {
+            "id": 12,
+            "imagen":"../images/Name=Pan Bimbo.jpg",
+            "name":"Pan Blanco Bimbo",
+            "price":"$26.82",
+            "cantidad":"125gr",
+            "descuento":"32%dto.",
+            "detalle":"Pan bimbo vital fruticereal X 500gr"
+        },
+        {
+            "id": 13,
+            "imagen":"../images/Name=Mc Cormick Mayonesa.jpg",
+            "name":"Mayonesa",
+            "price":"$26",
+            "cantidad":"250gr",
+            "descuento":"32%dto.",
+            "detalle":"¿Sabias que .. para llamarte Mayonesa tienes que contener al menos 60% de aceite de soya? Sino lo contiene eres un aderezo."
+        },
+        {
+            "id": 14,
+            "imagen":"../images/Name=Colgate.jpg",
+            "name":"Colgate Paq Familiar",
+            "price":"$27",
+            "cantidad":"500gr",
+            "descuento":"32%dto.",
+            "detalle":"Con la Crema Dental Colgate Triple Acción protege tu salud bucal y la de toda tu familia, bríndandoles la confianza que necesitan, manteniendo un aliento súper fresco por mucho más tiempo."
+        },
+        {
+            "id": 15,
+            "imagen":"../images/Name=Huevos.jpg",
+            "name":"Huevos AA",
+            "price":"$30",
+            "cantidad":"30 Unidades",
+            "descuento":"32%dto.",
+            "detalle":"Disfruta de los mejores Huevos marca Cuisine&Co aa rojo x30und"
+        },
+        {
+            "id": 16,
+            "imagen":"../images/Name=Fabuloso.jpg",
+            "name":"Fabuloso",
+            "price":"$10.82",
+            "cantidad":"3 litros",
+            "descuento":"32%dto.",
+            "detalle":"Fabuloso Frescura Activa Antibacterial. Limpiador multiusos. Con partículas activas y fragancias concentradas. Más aroma y limpieza efectiva. Fabuloso no necesita enjuagarse, tu piso quedará visiblemente limpio. Elimina el 99.99% de bacterias* que pueden causar malos olores"
+        }
+        
+   ]
+}
+
